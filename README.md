@@ -1,2 +1,2 @@
-# swigy
+# swiggy
 front end
